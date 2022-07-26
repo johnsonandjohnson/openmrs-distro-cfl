@@ -51,6 +51,10 @@ Load CFL distribution image.
 sudo docker load < openmrscorecfl_X.Y.Z.tar.gz
 ```
 
+Verify docker-compose.run.yml configuration. The services/web/image section should refer to the same version as the image
+ file above. 
+ The version in docker-compose.run.yml may differ if there was a file left from previous deployments.
+
 Run docker-compose.run.yml configuration
 
 ```
