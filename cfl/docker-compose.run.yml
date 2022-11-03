@@ -2,7 +2,7 @@ version: '2'
 
 services:
   web:
-    image: openmrscorecfl:5.0.7
+    image: openmrscorecfl:5.0.8
     logging:
       driver: "local"
     environment:
