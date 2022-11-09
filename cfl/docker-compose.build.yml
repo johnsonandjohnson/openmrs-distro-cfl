@@ -3,4 +3,4 @@ version: '2'
 services:
   web:
     build: web
-    image: openmrscorecfl:5.0.14
+    image: openmrscorecfl:5.0.15
