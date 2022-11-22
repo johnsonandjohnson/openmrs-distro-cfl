@@ -11,7 +11,8 @@ The project contains **.env.example** file which contains the configuration of a
 The CFL distribution forgoes usage of database dump, in favor of 'initial startup'. 
 The 'initial startup' is the first start of an application, during which empty database has tables created and initial
  data loaded in. This approach removes a burden of synchronizing DB dump with initial data of the CfL application, 
- at the expense of the longer initial startup.
+ at the expense of the longer initial startup - depending on the server's performance, it may take up to few hours, the most
+  of time is taken by the OCL concepts import (over 50000 concepts).
 
 ## Requirements
   - Docker engine
