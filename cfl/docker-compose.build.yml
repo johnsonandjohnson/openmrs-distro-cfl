@@ -3,4 +3,4 @@ version: '2'
 services:
   web:
     build: web
-    image: openmrscorecfl:4.3.36-dengue
+    image: openmrscorecfl:4.3.37-dengue
