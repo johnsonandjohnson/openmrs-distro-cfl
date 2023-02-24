@@ -13,6 +13,9 @@ OPENMRS_HOME=/usr/local/tomcat/.OpenMRS
 mkdir -p $OPENMRS_HOME/owa
 mkdir -p $OPENMRS_HOME/modules
 
+rm -rf $OPENMRS_HOME/modules/*
+rm -rf $OPENMRS_HOME/owa/*
+
 echo 'Copying OpenMRS modules'
 cp -r /opt/openmrs-modules/* $OPENMRS_HOME/modules/
 
