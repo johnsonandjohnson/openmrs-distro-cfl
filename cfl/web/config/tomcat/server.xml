@@ -166,8 +166,8 @@
                 <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs"
                        prefix="localhost_access_log" suffix=".txt"
                        pattern="%h %l %u %t &quot;%r&quot; %s %b" />
-                <Valve className="org.apache.catalina.valves.ErrorReportValve" showReport="false"
-                       showServerInfo="false"/>
+                <Valve className="org.apache.catalina.valves.ErrorReportValve" showReport="true"
+                       showServerInfo="true"/>
             </Host>
         </Engine>
     </Service>
