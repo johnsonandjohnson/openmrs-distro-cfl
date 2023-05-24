@@ -2,7 +2,7 @@ version: '2'
 
 services:
   web:
-    image: openmrscorecfl:4.4.5-dengue
+    image: openmrscorecfl:4.4.6-dengue
     restart: always
     logging:
       driver: "local"
