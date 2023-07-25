@@ -6,6 +6,8 @@ It has been tailored for quick-evaluation of Connect for Life features and as a 
 The Docker and Docker Compose are required to run this project. 
 The included scripts and Docker configuration are made for Unix environments.
 
+These [software terms of use](https://github.com/johnsonandjohnson/openmrs-distro-cfl/wiki/Software-Terms-Of-Use) apply to this Open Source solution.
+
 ## Running the Connect for Life OpenMRS
 
 The complete Connect for Life OpenMRS package is located in the `cfl` directory of this project. 
