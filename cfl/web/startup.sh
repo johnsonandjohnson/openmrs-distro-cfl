@@ -12,12 +12,10 @@ OPENMRS_HOME=/usr/local/tomcat/.OpenMRS
 
 mkdir -p $OPENMRS_HOME/owa
 mkdir -p $OPENMRS_HOME/modules
-mkdir -p $OPENMRS_HOME/frontend
 
 # Clean the directories from old modules/versions
 rm -rf $OPENMRS_HOME/modules/*
 rm -rf $OPENMRS_HOME/owa/*
-rm -rf $OPENMRS_HOME/frontend/*
 
 echo 'Copying OpenMRS modules'
 cp -r /opt/openmrs-modules/* $OPENMRS_HOME/modules/
@@ -98,7 +96,6 @@ if [ -f "/usr/local/tomcat/.OpenMRS/openmrs-runtime.properties" ]; then
   grep -qxF "hibernate.cache.use_second_level_cache=false" /usr/local/tomcat/.OpenMRS/openmrs-runtime.properties || echo "hibernate.cache.use_second_level_cache=false" >> /usr/local/tomcat/.OpenMRS/openmrs-runtime.properties
   grep -qxF "hibernate.cache.use_query_cache=false" /usr/local/tomcat/.OpenMRS/openmrs-runtime.properties || echo "hibernate.cache.use_query_cache=false" >> /usr/local/tomcat/.OpenMRS/openmrs-runtime.properties
   grep -qxF "hibernate.cache.auto_evict_collection_cache=false" /usr/local/tomcat/.OpenMRS/openmrs-runtime.properties || echo "hibernate.cache.auto_evict_collection_cache=false" >> /usr/local/tomcat/.OpenMRS/openmrs-runtime.properties
-fi
 
  # Temporary disable csrfguard
   grep -qxF "org.owasp.csrfguard.Enabled=false" /usr/local/tomcat/.OpenMRS/openmrs-runtime.properties || echo "org.owasp.csrfguard.Enabled=false" >> /usr/local/tomcat/.OpenMRS/openmrs-runtime.properties
