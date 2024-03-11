@@ -10,8 +10,6 @@ COPY openmrs.war  /usr/local/tomcat/webapps/openmrs.war
 COPY modules /opt/openmrs-modules
 COPY owa /opt/openmrs-owa
 COPY cfl-modules /opt/cfl-modules
-# Copy OCL export ZIP
-COPY ocl /opt/openmrs-ocl
 
 COPY setenv.sh /usr/local/tomcat/bin/setenv.sh
 

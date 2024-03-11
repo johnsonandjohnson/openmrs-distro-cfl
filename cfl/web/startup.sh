@@ -23,24 +23,9 @@ cp -r /opt/openmrs-modules/* $OPENMRS_HOME/modules/
 echo 'Copying OpenMRS OWA apps'
 cp -r /opt/openmrs-owa/* $OPENMRS_HOME/owa/
 
-COPY_CFL_MODULES=${COPY_CFL_MODULES:-"true"}
+echo 'Copying CFL modules'
+cp -r /opt/cfl-modules/* $OPENMRS_HOME/modules/
 
-if [ "$COPY_CFL_MODULES" != "false" ]; then
-    echo 'Copying CFL modules'
-    cp -r /opt/cfl-modules/* $OPENMRS_HOME/modules/
-fi
-
-
-#echo 'Check for OCL Import'
-RUN_OCL_IMPORT=${RUN_OCL_IMPORT:-"false"}
-if [ "$RUN_OCL_IMPORT" == "true" ]; then
-    echo 'Copy OCL import ZIP - will be imported during startup'
-    mkdir -p $OPENMRS_HOME/ocl/configuration/loadAtStartup
-    cp -r /opt/openmrs-ocl/* $OPENMRS_HOME/ocl/configuration/loadAtStartup/
-else
-    echo 'Clear OCL import ZIP - will NOT be imported during startup'
-    rm -rf $OPENMRS_HOME/ocl/configuration/loadAtStartup
-fi
 
 mkdir -p ~/modules
 
