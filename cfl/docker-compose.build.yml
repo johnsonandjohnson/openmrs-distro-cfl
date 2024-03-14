@@ -3,4 +3,4 @@ version: '2'
 services:
   web:
     build: web
-    image: openmrscorecfl:8.1.0-leprosy-india.1
+    image: openmrscorecfl:8.1.0-leprosy-india.2
