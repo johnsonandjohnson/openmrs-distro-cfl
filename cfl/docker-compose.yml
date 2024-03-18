@@ -17,7 +17,7 @@ services:
 
   web:
     build: web
-    image: openmrscorecfl:8.0.0-public-demo
+    image: openmrscorecfl:8.0.1-public-demo
     depends_on:
       - db
     environment:
