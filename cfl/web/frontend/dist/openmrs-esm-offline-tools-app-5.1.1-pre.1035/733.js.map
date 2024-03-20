@@ -1,0 +1,1 @@
+{"version":3,"file":"733.js","mappings":"oOAIe,SAASA,IACtB,IAAM,GAAQC,EAAAA,EAAAA,kBAANC,EACR,OACE,kBAACC,EAAAA,iBAAgBA,CAACC,GAAG,mCAClBF,EAAE,0BAA2B,iBAGpC,C","sources":["webpack://@openmrs/esm-offline-tools-app/./src/offline-tools-app-menu-link.component.tsx"],"names":["OfflineToolsAppMenuLink","useTranslation","t","ConfigurableLink","to"],"sourceRoot":""}

@@ -1,0 +1,692 @@
+{
+  "chunks": [
+    {
+      "rendered": false,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 214208,
+      "sizes": {
+        "javascript": 168505,
+        "consume-shared": 42,
+        "share-init": 168,
+        "runtime": 45493
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [
+        "main.js.map"
+      ],
+      "hash": "305a9501a8b7a94c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 8693,
+      "sizes": {
+        "javascript": 8693
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "reportsModule"
+      ],
+      "files": [
+        "node_modules_css-loader_dist_runtime_api_js-node_modules_css-loader_dist_runtime_sourceMaps_j-967cb70.js"
+      ],
+      "auxiliaryFiles": [
+        "node_modules_css-loader_dist_runtime_api_js-node_modules_css-loader_dist_runtime_sourceMaps_j-967cb70.js.map"
+      ],
+      "hash": "19d9c6efb3749580",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 8693,
+      "sizes": {
+        "javascript": 8693
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "reportsModule"
+      ],
+      "files": [
+        "node_modules_css-loader_dist_runtime_api_js-node_modules_css-loader_dist_runtime_sourceMaps_j-967cb71.js"
+      ],
+      "auxiliaryFiles": [
+        "node_modules_css-loader_dist_runtime_api_js-node_modules_css-loader_dist_runtime_sourceMaps_j-967cb71.js.map"
+      ],
+      "hash": "7fc976016e83c666",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 17709,
+      "sizes": {
+        "javascript": 17709
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "reportsModule"
+      ],
+      "files": [
+        "node_modules_moment_locale_sync_recursive_-src_components_reports_resource_tsx.js"
+      ],
+      "auxiliaryFiles": [
+        "node_modules_moment_locale_sync_recursive_-src_components_reports_resource_tsx.js.map"
+      ],
+      "hash": "53b5ee2dc610c64b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 210277,
+      "sizes": {
+        "javascript": 164947,
+        "share-init": 168,
+        "runtime": 45162
+      },
+      "names": [
+        "reportsModule"
+      ],
+      "idHints": [],
+      "runtime": [
+        "reportsModule"
+      ],
+      "files": [
+        "openmrs-esm-reports-app.js"
+      ],
+      "auxiliaryFiles": [
+        "openmrs-esm-reports-app.js.map"
+      ],
+      "hash": "d698870e66ccc5ca",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 64187,
+      "sizes": {
+        "javascript": 64187
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "reportsModule"
+      ],
+      "files": [
+        "src_components_overview_component_tsx.js"
+      ],
+      "auxiliaryFiles": [
+        "src_components_overview_component_tsx.js.map"
+      ],
+      "hash": "44365be57ee95f0b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 11513,
+      "sizes": {
+        "javascript": 11513
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "reportsModule"
+      ],
+      "files": [
+        "src_components_pagination-constants_ts-src_components_report-overview-button_component_tsx-sr-61acd9.js"
+      ],
+      "auxiliaryFiles": [
+        "src_components_pagination-constants_ts-src_components_report-overview-button_component_tsx-sr-61acd9.js.map"
+      ],
+      "hash": "1400c0f6163b3587",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 10437,
+      "sizes": {
+        "javascript": 10437
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "reportsModule"
+      ],
+      "files": [
+        "src_components_run-report_cancel-report-modal_component_tsx.js"
+      ],
+      "auxiliaryFiles": [
+        "src_components_run-report_cancel-report-modal_component_tsx.js.map"
+      ],
+      "hash": "a88e8144e1864a22",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 39718,
+      "sizes": {
+        "javascript": 39718
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "reportsModule"
+      ],
+      "files": [
+        "src_components_run-report_run-report-form_component_tsx.js"
+      ],
+      "auxiliaryFiles": [
+        "src_components_run-report_run-report-form_component_tsx.js.map"
+      ],
+      "hash": "1058fa42180dbb95",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 13400,
+      "sizes": {
+        "javascript": 13400
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "reportsModule"
+      ],
+      "files": [
+        "src_components_scheduled-overview_component_tsx.js"
+      ],
+      "auxiliaryFiles": [
+        "src_components_scheduled-overview_component_tsx.js.map"
+      ],
+      "hash": "e1e4971179c27c44",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 3642,
+      "sizes": {
+        "javascript": 3600,
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "reportsModule"
+      ],
+      "files": [
+        "src_index_ts.js"
+      ],
+      "auxiliaryFiles": [
+        "src_index_ts.js.map"
+      ],
+      "hash": "2fb4646d9c3bebd3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 536,
+      "sizes": {
+        "javascript": 536
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "reportsModule"
+      ],
+      "files": [
+        "src_reports-link_tsx.js"
+      ],
+      "auxiliaryFiles": [
+        "src_reports-link_tsx.js.map"
+      ],
+      "hash": "df0e56473bf5ed78",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 30743,
+      "sizes": {
+        "javascript": 30701,
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "reportsModule"
+      ],
+      "files": [
+        "src_reports_component_tsx.js"
+      ],
+      "auxiliaryFiles": [
+        "src_reports_component_tsx.js.map"
+      ],
+      "hash": "b93334e007c2019b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1244,
+      "sizes": {
+        "javascript": 1244
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "reportsModule"
+      ],
+      "files": [
+        "translations_am_json.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "d656f17092a1986a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 3717,
+      "sizes": {
+        "javascript": 3717
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "reportsModule"
+      ],
+      "files": [
+        "translations_en_json.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "d87c4490a4c47e02",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1914,
+      "sizes": {
+        "javascript": 1914
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "reportsModule"
+      ],
+      "files": [
+        "translations_es_json.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "56fc6926b328ac8a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1965,
+      "sizes": {
+        "javascript": 1965
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "reportsModule"
+      ],
+      "files": [
+        "translations_fr_json.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "020c6da6cf583ae9",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1385,
+      "sizes": {
+        "javascript": 1385
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "reportsModule"
+      ],
+      "files": [
+        "translations_he_json.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "694e4147ec943826",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1603,
+      "sizes": {
+        "javascript": 1603
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "reportsModule"
+      ],
+      "files": [
+        "translations_km_json.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "688b03db6a1c1a56",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 5169598,
+      "sizes": {
+        "javascript": 5169598
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "main",
+        "reportsModule"
+      ],
+      "files": [
+        "vendors-node_modules_carbon_react_es_index_js-node_modules_moment_locale_af_js-node_modules_m-62b003.js"
+      ],
+      "auxiliaryFiles": [
+        "vendors-node_modules_carbon_react_es_index_js-node_modules_moment_locale_af_js-node_modules_m-62b003.js.map"
+      ],
+      "hash": "7703cde878770444",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 133610,
+      "sizes": {
+        "javascript": 133610
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "main",
+        "reportsModule"
+      ],
+      "files": [
+        "vendors-node_modules_carbon_react_node_modules_carbon_icons-react_es_generated_bucket-11_js.js"
+      ],
+      "auxiliaryFiles": [
+        "vendors-node_modules_carbon_react_node_modules_carbon_icons-react_es_generated_bucket-11_js.js.map"
+      ],
+      "hash": "035538df35fe0e52",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 302052,
+      "sizes": {
+        "javascript": 302052
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "main",
+        "reportsModule"
+      ],
+      "files": [
+        "vendors-node_modules_datasert_cronjs-matcher_dist_index_js-node_modules_cronstrue_dist_cronst-84fe1c.js"
+      ],
+      "auxiliaryFiles": [
+        "vendors-node_modules_datasert_cronjs-matcher_dist_index_js-node_modules_cronstrue_dist_cronst-84fe1c.js.map"
+      ],
+      "hash": "5dbbf00b8c63b3d8",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 1105928,
+      "sizes": {
+        "javascript": 1105928
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "main",
+        "reportsModule"
+      ],
+      "files": [
+        "vendors-node_modules_openmrs_esm-framework_src_internal_ts.js"
+      ],
+      "auxiliaryFiles": [
+        "vendors-node_modules_openmrs_esm-framework_src_internal_ts.js.map"
+      ],
+      "hash": "e174a8973db7c032",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 39290,
+      "sizes": {
+        "javascript": 39290
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "main",
+        "reportsModule"
+      ],
+      "files": [
+        "vendors-node_modules_react-i18next_dist_es_index_js.js"
+      ],
+      "auxiliaryFiles": [
+        "vendors-node_modules_react-i18next_dist_es_index_js.js.map"
+      ],
+      "hash": "eff46d16f4235049",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 246539,
+      "sizes": {
+        "javascript": 246539
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "main",
+        "reportsModule"
+      ],
+      "files": [
+        "vendors-node_modules_react-router-dom_dist_index_js.js"
+      ],
+      "auxiliaryFiles": [
+        "vendors-node_modules_react-router-dom_dist_index_js.js.map"
+      ],
+      "hash": "4cddedc7dd1c6add",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 87764,
+      "sizes": {
+        "javascript": 87764
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "main",
+        "reportsModule"
+      ],
+      "files": [
+        "vendors-node_modules_react_index_js.js"
+      ],
+      "auxiliaryFiles": [
+        "vendors-node_modules_react_index_js.js.map"
+      ],
+      "hash": "26fde78110fd01dc",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "reportsModule"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "00bb02aa861a8d88",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "reportsModule"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "466d03583be5848b",
+      "childrenByOrder": {}
+    }
+  ]
+}

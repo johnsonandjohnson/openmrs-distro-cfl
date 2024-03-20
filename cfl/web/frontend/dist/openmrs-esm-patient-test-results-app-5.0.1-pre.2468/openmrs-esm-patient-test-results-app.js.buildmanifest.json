@@ -1,0 +1,890 @@
+{
+  "chunks": [
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 84,
+      "sizes": {
+        "consume-shared": 84
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "472f4692e72994e3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 24843,
+      "sizes": {
+        "javascript": 24843
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [
+        "47.js"
+      ],
+      "auxiliaryFiles": [
+        "47.js.map"
+      ],
+      "hash": "e0fa3d8b0aeafd84",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 27871,
+      "sizes": {
+        "javascript": 27871
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [
+        "93.js"
+      ],
+      "auxiliaryFiles": [
+        "93.js.map"
+      ],
+      "hash": "1974796dadde66fa",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 484329,
+      "sizes": {
+        "javascript": 484329
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [
+        "102.js"
+      ],
+      "auxiliaryFiles": [
+        "102.js.map"
+      ],
+      "hash": "4e6a72307b0f2742",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 1107144,
+      "sizes": {
+        "javascript": 1107144
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [
+        "130.js"
+      ],
+      "auxiliaryFiles": [
+        "130.js.map"
+      ],
+      "hash": "edd3d796a1401d3c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 27168,
+      "sizes": {
+        "consume-shared": 84,
+        "javascript": 5409,
+        "share-init": 252,
+        "runtime": 21423
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [
+        "main.js.map"
+      ],
+      "hash": "716a876db2994e99",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 44739,
+      "sizes": {
+        "javascript": 44739
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [
+        "242.js"
+      ],
+      "auxiliaryFiles": [
+        "242.js.map"
+      ],
+      "hash": "c3559b2624c72b70",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 50867,
+      "sizes": {
+        "javascript": 50867
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [
+        "255.js"
+      ],
+      "auxiliaryFiles": [
+        "255.js.map"
+      ],
+      "hash": "a9cad765f7838a52",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "6dab316b6e84b16f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1397,
+      "sizes": {
+        "javascript": 1397
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [
+        "319.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "0f0d3fa3c9282ce3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 21730,
+      "sizes": {
+        "javascript": 21730
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [
+        "362.js"
+      ],
+      "auxiliaryFiles": [
+        "362.js.map"
+      ],
+      "hash": "9350072b5720161f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 163792,
+      "sizes": {
+        "javascript": 163792
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [
+        "442.js"
+      ],
+      "auxiliaryFiles": [
+        "442.js.map"
+      ],
+      "hash": "00eb02221210170e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 38940,
+      "sizes": {
+        "javascript": 38940
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [
+        "469.js"
+      ],
+      "auxiliaryFiles": [
+        "469.js.map"
+      ],
+      "hash": "0d8052e7ad994906",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 28698,
+      "sizes": {
+        "javascript": 28698
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [
+        "476.js"
+      ],
+      "auxiliaryFiles": [
+        "476.js.map"
+      ],
+      "hash": "39687b230f58b97e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 153929,
+      "sizes": {
+        "javascript": 153929
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [
+        "508.js"
+      ],
+      "auxiliaryFiles": [
+        "508.js.map"
+      ],
+      "hash": "2b620fc29c1af96e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 39886,
+      "sizes": {
+        "javascript": 39886
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [
+        "525.js"
+      ],
+      "auxiliaryFiles": [
+        "525.js.map"
+      ],
+      "hash": "1236a080610ae080",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 31285,
+      "sizes": {
+        "javascript": 31285
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [
+        "534.js"
+      ],
+      "auxiliaryFiles": [
+        "534.js.map"
+      ],
+      "hash": "fb1b829746e5709f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 46855,
+      "sizes": {
+        "javascript": 46855
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [
+        "568.js"
+      ],
+      "auxiliaryFiles": [
+        "568.js.map"
+      ],
+      "hash": "d5ff270e21b3ad83",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1397,
+      "sizes": {
+        "javascript": 1397
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [
+        "574.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "641fe40be20aabc3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 59575,
+      "sizes": {
+        "javascript": 59575
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [
+        "590.js"
+      ],
+      "auxiliaryFiles": [
+        "590.js.map"
+      ],
+      "hash": "13aa0e703ad0595e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 190348,
+      "sizes": {
+        "javascript": 190348
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [
+        "591.js"
+      ],
+      "auxiliaryFiles": [
+        "591.js.map"
+      ],
+      "hash": "67446e2ae44f6e03",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 39290,
+      "sizes": {
+        "javascript": 39290
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [
+        "610.js"
+      ],
+      "auxiliaryFiles": [
+        "610.js.map"
+      ],
+      "hash": "6279e3230d8d096e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 21317,
+      "sizes": {
+        "javascript": 42,
+        "share-init": 252,
+        "runtime": 21023
+      },
+      "names": [
+        "@openmrs/esm-patient-test-results-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app"
+      ],
+      "files": [
+        "openmrs-esm-patient-test-results-app.js"
+      ],
+      "auxiliaryFiles": [
+        "openmrs-esm-patient-test-results-app.js.map"
+      ],
+      "hash": "e7dd511a88e26e92",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 2270459,
+      "sizes": {
+        "javascript": 2270459
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [
+        "734.js"
+      ],
+      "auxiliaryFiles": [
+        "734.js.map"
+      ],
+      "hash": "2330241a51f25c2e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "de54a7dba1220cf5",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1496,
+      "sizes": {
+        "javascript": 1496
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [
+        "757.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "a1acbae1c83f3906",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7103,
+      "sizes": {
+        "javascript": 7103
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [
+        "784.js"
+      ],
+      "auxiliaryFiles": [
+        "784.js.map"
+      ],
+      "hash": "b71478b9598e3af4",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1397,
+      "sizes": {
+        "javascript": 1397
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [
+        "788.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "f098e71e4b126271",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1449,
+      "sizes": {
+        "javascript": 1449
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [
+        "807.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "2d798d31b090999b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 2452684,
+      "sizes": {
+        "javascript": 2452684
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [
+        "808.js"
+      ],
+      "auxiliaryFiles": [
+        "808.js.map"
+      ],
+      "hash": "7fb6415533a4c625",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1362,
+      "sizes": {
+        "javascript": 1362
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [
+        "833.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "40f738dd702d97ec",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 5409,
+      "sizes": {
+        "javascript": 5409
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app"
+      ],
+      "files": [
+        "842.js"
+      ],
+      "auxiliaryFiles": [
+        "842.js.map"
+      ],
+      "hash": "4cae0900d42cd85e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 118848,
+      "sizes": {
+        "javascript": 118848
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [
+        "868.js"
+      ],
+      "auxiliaryFiles": [
+        "868.js.map"
+      ],
+      "hash": "4067bffb7d374e73",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 100531,
+      "sizes": {
+        "javascript": 100447,
+        "consume-shared": 84
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [
+        "909.js"
+      ],
+      "auxiliaryFiles": [
+        "909.js.map"
+      ],
+      "hash": "14674798c6866f4f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "14b1e9a13c068726",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 143534,
+      "sizes": {
+        "javascript": 143534
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-test-results-app",
+        "main"
+      ],
+      "files": [
+        "929.js"
+      ],
+      "auxiliaryFiles": [
+        "929.js.map"
+      ],
+      "hash": "9aa4d0d4b7034b04",
+      "childrenByOrder": {}
+    }
+  ]
+}

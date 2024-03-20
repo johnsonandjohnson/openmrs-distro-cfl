@@ -1,0 +1,462 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 1778226,
+      "sizes": {
+        "javascript": 1778226
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-active-visits-app",
+        "main"
+      ],
+      "files": [
+        "130.js"
+      ],
+      "auxiliaryFiles": [
+        "130.js.map"
+      ],
+      "hash": "2ed086fec470dd28",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 22573,
+      "sizes": {
+        "consume-shared": 42,
+        "javascript": 2337,
+        "share-init": 210,
+        "runtime": 19984
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [
+        "main.js.map"
+      ],
+      "hash": "803173a7d0a4d842",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-active-visits-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "d6ec6966c9531444",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 84,
+      "sizes": {
+        "consume-shared": 84
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-active-visits-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "f879c289a518317d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 137533,
+      "sizes": {
+        "javascript": 137533
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-active-visits-app",
+        "main"
+      ],
+      "files": [
+        "316.js"
+      ],
+      "auxiliaryFiles": [
+        "316.js.map"
+      ],
+      "hash": "c4ab49b17ca3696c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1096,
+      "sizes": {
+        "javascript": 1096
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-active-visits-app",
+        "main"
+      ],
+      "files": [
+        "319.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "b452a66f2b73320e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1000,
+      "sizes": {
+        "javascript": 1000
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-active-visits-app",
+        "main"
+      ],
+      "files": [
+        "574.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "6b10ce423d109a2c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 39276,
+      "sizes": {
+        "javascript": 39276
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-active-visits-app",
+        "main"
+      ],
+      "files": [
+        "588.js"
+      ],
+      "auxiliaryFiles": [
+        "588.js.map"
+      ],
+      "hash": "a4b282d5527f44c6",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 60122,
+      "sizes": {
+        "javascript": 60122
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-active-visits-app",
+        "main"
+      ],
+      "files": [
+        "629.js"
+      ],
+      "auxiliaryFiles": [
+        "629.js.map"
+      ],
+      "hash": "893362c717e95dac",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 19869,
+      "sizes": {
+        "javascript": 42,
+        "share-init": 210,
+        "runtime": 19617
+      },
+      "names": [
+        "@openmrs/esm-active-visits-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-active-visits-app"
+      ],
+      "files": [
+        "openmrs-esm-active-visits-app.js"
+      ],
+      "auxiliaryFiles": [
+        "openmrs-esm-active-visits-app.js.map"
+      ],
+      "hash": "e16c9bb4ae828346",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1102,
+      "sizes": {
+        "javascript": 1102
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-active-visits-app",
+        "main"
+      ],
+      "files": [
+        "757.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "382e2dd35591c9a8",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7103,
+      "sizes": {
+        "javascript": 7103
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-active-visits-app",
+        "main"
+      ],
+      "files": [
+        "784.js"
+      ],
+      "auxiliaryFiles": [
+        "784.js.map"
+      ],
+      "hash": "83e8eb15662f0db3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1000,
+      "sizes": {
+        "javascript": 1000
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-active-visits-app",
+        "main"
+      ],
+      "files": [
+        "788.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "6abef3899f1cb525",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1072,
+      "sizes": {
+        "javascript": 1072
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-active-visits-app",
+        "main"
+      ],
+      "files": [
+        "807.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "4e9fc0d2c07190b6",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 922,
+      "sizes": {
+        "javascript": 922
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-active-visits-app",
+        "main"
+      ],
+      "files": [
+        "833.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "1390925f4f886c22",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2379,
+      "sizes": {
+        "consume-shared": 42,
+        "javascript": 2337
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-active-visits-app"
+      ],
+      "files": [
+        "842.js"
+      ],
+      "auxiliaryFiles": [
+        "842.js.map"
+      ],
+      "hash": "9cdae6b72fc46f8b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6670,
+      "sizes": {
+        "javascript": 6670
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-active-visits-app",
+        "main"
+      ],
+      "files": [
+        "879.js"
+      ],
+      "auxiliaryFiles": [
+        "879.js.map"
+      ],
+      "hash": "35a3abe9a5389036",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 1744364,
+      "sizes": {
+        "javascript": 1744364
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-active-visits-app",
+        "main"
+      ],
+      "files": [
+        "909.js"
+      ],
+      "auxiliaryFiles": [
+        "909.js.map"
+      ],
+      "hash": "b0a544ff996cd1ba",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 52919,
+      "sizes": {
+        "consume-shared": 42,
+        "javascript": 52877
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-active-visits-app",
+        "main"
+      ],
+      "files": [
+        "936.js"
+      ],
+      "auxiliaryFiles": [
+        "936.js.map"
+      ],
+      "hash": "c04e1d038ebe2d7e",
+      "childrenByOrder": {}
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_openmrs_esm_home_app=globalThis.webpackChunk_openmrs_esm_home_app||[]).push([[242],{242:(e,n,a)=>{a.r(n),a.d(n,{default:()=>u});var s=a(268),p=a.n(s),t=a(906);const u=function(){return p().createElement(t.LeftNavMenu,null)}}}]);

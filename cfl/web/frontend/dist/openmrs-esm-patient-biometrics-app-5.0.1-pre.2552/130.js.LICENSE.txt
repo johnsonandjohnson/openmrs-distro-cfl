@@ -1,0 +1,3 @@
+/*! For license information please see openmrs-esm-api.js.LICENSE.txt */
+
+/*! For license information please see openmrs-esm-react-utils.js.LICENSE.txt */

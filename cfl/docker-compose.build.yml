@@ -1,0 +1,6 @@
+version: '2'
+
+services:
+  web:
+    build: web
+    image: openmrscfldistroship:8.1.4-ship

@@ -1,0 +1,47 @@
+{
+  "icons": [
+    {
+      "src": "icon_512x512.7163efb26df832de513bc58d925ea22e.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_384x384.c8923df6b6bd08eba5c79b78d7fcecc0.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_256x256.c729f6e7e914b58fcea5ce91d7aa9bad.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192x192.d3d318638bbe8a10a3c687d3d302d01a.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_144x144.e263e02b838d229b02ff9133e6e0f2ba.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_128x128.3dde25c6e69b1c010a6a5d6b27b3f436.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_96x96.682ee334ae19d49894217370b8596f61.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "OpenMRS",
+  "short_name": "OpenMRS",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Open source Health IT by and for the entire planet, starting with the developing world.",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
