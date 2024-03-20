@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_openmrs_esm_primary_navigation_app=globalThis.webpackChunk_openmrs_esm_primary_navigation_app||[]).push([[757],{2757:a=>{a.exports=JSON.parse('{"notifications":"Notifications","selectLocale":"Sélectionner les paramètres régionaux"}')}}]);

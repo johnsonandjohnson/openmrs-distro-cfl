@@ -1,0 +1,27 @@
+version: '2'
+
+services:
+  web:
+    image: openmrscorecfl:8.1.39-omrs3x
+    restart: always
+    logging:
+      driver: "local"
+    environment:
+      DB_DATABASE: openmrs
+      DB_HOST: ${DB_HOST}
+      DB_USERNAME: ${DB_USERNAME}
+      DB_PASSWORD: ${DB_PASSWORD}
+      DB_CREATE_TABLES: ${INITIAL_STARTUP}    # change to 'true' if using an empty database
+      DB_AUTO_UPDATE: ${INITIAL_STARTUP}      # change to 'true' if using an empty database
+      RUN_OCL_IMPORT: ${INITIAL_STARTUP}      # Runs CIEL Concept on startup, takes ~30min
+      MODULE_WEB_ADMIN: 'true'                # allow web admin on OpenMRS
+      COPY_CFL_MODULES: 'true'                # Installs web/cfl-modules before startup
+    volumes:
+      - web-data:/usr/local/tomcat/.OpenMRS
+    ports:
+      - "${TOMCAT_PORT}:8080"
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+volumes:
+  web-data:
