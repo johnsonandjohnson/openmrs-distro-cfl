@@ -3,4 +3,4 @@ version: '2'
 services:
   web:
     build: web
-    image: openmrscorecfl:8.1.43-omrs3x
+    image: openmrscorecfl:8.1.44-omrs3x
