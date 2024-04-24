@@ -2,7 +2,7 @@ version: '2'
 
 services:
   web:
-    image: openmrscorecfl:8.0.12
+    image: openmrscorecfl:8.0.13
     restart: always
     logging:
       driver: "local"
