@@ -1,0 +1,581 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 10437,
+      "sizes": {
+        "javascript": 10437
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@pwargulak_sd/esm-reports-app",
+        "main"
+      ],
+      "files": [
+        "9.js"
+      ],
+      "auxiliaryFiles": [
+        "9.js.map"
+      ],
+      "hash": "de6b1aeaacce3a32",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 50979,
+      "sizes": {
+        "javascript": 50979
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@pwargulak_sd/esm-reports-app",
+        "main"
+      ],
+      "files": [
+        "45.js"
+      ],
+      "auxiliaryFiles": [
+        "45.js.map"
+      ],
+      "hash": "a49a8541d13d9aed",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 8591,
+      "sizes": {
+        "javascript": 8591
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@pwargulak_sd/esm-reports-app",
+        "main"
+      ],
+      "files": [
+        "90.js"
+      ],
+      "auxiliaryFiles": [
+        "90.js.map"
+      ],
+      "hash": "f205b84735e367ac",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 3642,
+      "sizes": {
+        "consume-shared": 42,
+        "javascript": 3600
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@pwargulak_sd/esm-reports-app"
+      ],
+      "files": [
+        "153.js"
+      ],
+      "auxiliaryFiles": [
+        "153.js.map"
+      ],
+      "hash": "94dcaf9329eaccb8",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 536,
+      "sizes": {
+        "javascript": 536
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@pwargulak_sd/esm-reports-app",
+        "main"
+      ],
+      "files": [
+        "158.js"
+      ],
+      "auxiliaryFiles": [
+        "158.js.map"
+      ],
+      "hash": "b09103a592fb6bb2",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 23511,
+      "sizes": {
+        "consume-shared": 42,
+        "javascript": 3600,
+        "share-init": 168,
+        "runtime": 19701
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [
+        "main.js.map"
+      ],
+      "hash": "2765f4b201a1dfe3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 20347,
+      "sizes": {
+        "javascript": 20347
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@pwargulak_sd/esm-reports-app",
+        "main"
+      ],
+      "files": [
+        "286.js"
+      ],
+      "auxiliaryFiles": [
+        "286.js.map"
+      ],
+      "hash": "1c2045d1d3173233",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7103,
+      "sizes": {
+        "javascript": 7103
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@pwargulak_sd/esm-reports-app",
+        "main"
+      ],
+      "files": [
+        "294.js"
+      ],
+      "auxiliaryFiles": [
+        "294.js.map"
+      ],
+      "hash": "cbc2d395a41f5529",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 2871048,
+      "sizes": {
+        "javascript": 2871048
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@pwargulak_sd/esm-reports-app",
+        "main"
+      ],
+      "files": [
+        "311.js"
+      ],
+      "auxiliaryFiles": [
+        "311.js.map"
+      ],
+      "hash": "2fdc9265a6ee62df",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 29321,
+      "sizes": {
+        "javascript": 29321
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@pwargulak_sd/esm-reports-app",
+        "main"
+      ],
+      "files": [
+        "326.js"
+      ],
+      "auxiliaryFiles": [
+        "326.js.map"
+      ],
+      "hash": "af5dccec1bc9940c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@pwargulak_sd/esm-reports-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "ae175ca34d77703d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 19544,
+      "sizes": {
+        "javascript": 42,
+        "share-init": 168,
+        "runtime": 19334
+      },
+      "names": [
+        "@pwargulak_sd/esm-reports-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@pwargulak_sd/esm-reports-app"
+      ],
+      "files": [
+        "openmrs-esm-reports-app.js"
+      ],
+      "auxiliaryFiles": [
+        "openmrs-esm-reports-app.js.map"
+      ],
+      "hash": "5a41b745569c878d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 29282,
+      "sizes": {
+        "javascript": 29282
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@pwargulak_sd/esm-reports-app",
+        "main"
+      ],
+      "files": [
+        "547.js"
+      ],
+      "auxiliaryFiles": [
+        "547.js.map"
+      ],
+      "hash": "1c499dc1837e393c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 246539,
+      "sizes": {
+        "javascript": 246539
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@pwargulak_sd/esm-reports-app",
+        "main"
+      ],
+      "files": [
+        "554.js"
+      ],
+      "auxiliaryFiles": [
+        "554.js.map"
+      ],
+      "hash": "bf50c25df738760a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 4511,
+      "sizes": {
+        "javascript": 4511
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@pwargulak_sd/esm-reports-app",
+        "main"
+      ],
+      "files": [
+        "574.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "8c37fce17ede5ee1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@pwargulak_sd/esm-reports-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "f7a96694b1c223b1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 91440,
+      "sizes": {
+        "javascript": 91440
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@pwargulak_sd/esm-reports-app",
+        "main"
+      ],
+      "files": [
+        "674.js"
+      ],
+      "auxiliaryFiles": [
+        "674.js.map"
+      ],
+      "hash": "523abcb9774bb923",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 133610,
+      "sizes": {
+        "javascript": 133610
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@pwargulak_sd/esm-reports-app",
+        "main"
+      ],
+      "files": [
+        "675.js"
+      ],
+      "auxiliaryFiles": [
+        "675.js.map"
+      ],
+      "hash": "6cd4a591b8d7e776",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 3792,
+      "sizes": {
+        "javascript": 3750,
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@pwargulak_sd/esm-reports-app",
+        "main"
+      ],
+      "files": [
+        "778.js"
+      ],
+      "auxiliaryFiles": [
+        "778.js.map"
+      ],
+      "hash": "527c6e41f6df6294",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 1105928,
+      "sizes": {
+        "javascript": 1105928
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@pwargulak_sd/esm-reports-app",
+        "main"
+      ],
+      "files": [
+        "800.js"
+      ],
+      "auxiliaryFiles": [
+        "800.js.map"
+      ],
+      "hash": "c9cf21096711ec75",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 886380,
+      "sizes": {
+        "javascript": 886380
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@pwargulak_sd/esm-reports-app",
+        "main"
+      ],
+      "files": [
+        "839.js"
+      ],
+      "auxiliaryFiles": [
+        "839.js.map"
+      ],
+      "hash": "17e998ab88a490ce",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 14307,
+      "sizes": {
+        "javascript": 14307
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@pwargulak_sd/esm-reports-app",
+        "main"
+      ],
+      "files": [
+        "901.js"
+      ],
+      "auxiliaryFiles": [
+        "901.js.map"
+      ],
+      "hash": "eee3ea277e670f02",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 39290,
+      "sizes": {
+        "javascript": 39290
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@pwargulak_sd/esm-reports-app",
+        "main"
+      ],
+      "files": [
+        "925.js"
+      ],
+      "auxiliaryFiles": [
+        "925.js.map"
+      ],
+      "hash": "5d31540acba9a07b",
+      "childrenByOrder": {}
+    }
+  ]
+}
