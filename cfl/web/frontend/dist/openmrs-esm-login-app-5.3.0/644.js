@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_openmrs_esm_login_app=globalThis.webpackChunk_openmrs_esm_login_app||[]).push([[644],{1644:o=>{o.exports=JSON.parse('{"confirm":"确定","location":"位置","locationNotFound":"对不起，没有找到位置。","login":"登录","password":"密码","username":"用户名","welcome":"欢迎","poweredBy":"由 运行"}')}}]);

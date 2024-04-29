@@ -1,0 +1,1 @@
+{"version":3,"file":"415.js","mappings":"wOAIe,SAASA,IACtB,IAAM,GAAQC,EAAAA,EAAAA,kBAANC,EACR,OAEE,kBAACC,EAAAA,iBAAgB,CAACC,GAAG,2BAClBF,EAAE,mBAAoB,mBAG7B,C","sources":["webpack://@openmrs/esm-fast-data-entry-app/./src/forms-app-menu-link.tsx"],"names":["FormsAppMenuLink","useTranslation","t","ConfigurableLink","to"],"sourceRoot":""}
