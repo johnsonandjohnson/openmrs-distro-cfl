@@ -2,7 +2,7 @@ version: '2'
 
 services:
   web:
-    image: openmrscorecfl:8.1.0-leprosy-india.2
+    image: openmrscorecfl:8.1.0-leprosy-india.3
     restart: always
     logging:
       driver: "local"
