@@ -3,4 +3,4 @@ version: '2'
 services:
   web:
     build: web
-    image: openmrscorecfl:9.0.1-SNAPSHOT
+    image: openmrscorecfl:9.0.2-SNAPSHOT
