@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_openmrs_esm_patient_orders_app=globalThis.webpackChunk_openmrs_esm_patient_orders_app||[]).push([[303,152],{2303:(e,a,t)=>{t.r(a),t.d(a,{default:()=>l,immutable:()=>i});var r=t(3255),s=t(3325);const i=e=>(a,t,r)=>(r.revalidateOnFocus=!1,r.revalidateIfStale=!1,r.revalidateOnReconnect=!1,e(a,t,r)),l=(0,s.withMiddleware)(r.ZP,i)}}]);

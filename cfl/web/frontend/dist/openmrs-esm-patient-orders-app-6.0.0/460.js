@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_openmrs_esm_patient_orders_app=globalThis.webpackChunk_openmrs_esm_patient_orders_app||[]).push([[460],{4460:e=>{e.exports=JSON.parse('{"Medications":"الأدوية"}')}}]);

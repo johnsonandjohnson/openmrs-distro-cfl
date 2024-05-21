@@ -12,16 +12,21 @@ OPENMRS_HOME=/usr/local/tomcat/.OpenMRS
 
 mkdir -p $OPENMRS_HOME/owa
 mkdir -p $OPENMRS_HOME/modules
+mkdir -p $OPENMRS_HOME/frontend
 
 # Clean the directories from old modules/versions
 rm -rf $OPENMRS_HOME/modules/*
 rm -rf $OPENMRS_HOME/owa/*
+rm -rf $OPENMRS_HOME/frontend/*
 
 echo 'Copying OpenMRS modules'
 cp -r /opt/openmrs-modules/* $OPENMRS_HOME/modules/
 
 echo 'Copying OpenMRS OWA apps'
 cp -r /opt/openmrs-owa/* $OPENMRS_HOME/owa/
+
+echo 'Copying OpenMRS 3.x frontend'
+cp -r /opt/openmrs-frontend/* $OPENMRS_HOME/frontend/
 
 echo 'Copying CFL modules'
 cp -r /opt/cfl-modules/* $OPENMRS_HOME/modules/
@@ -32,7 +37,7 @@ mkdir -p ~/modules
 # Create OpenMRS installation script - see setenv.sh
 cat > /usr/local/tomcat/openmrs-server.properties << EOF
 install_method=auto
-connection.url=jdbc\:mysql\://${DB_HOST}\:3306/${DB_DATABASE}?autoReconnect\=true&sessionVariables\=default_storage_engine\=InnoDB&useUnicode\=true&characterEncoding\=UTF-8&useSSL\=false
+connection.url=jdbc\:mysql\://${DB_HOST}\:3306/${DB_DATABASE}?autoReconnect\=true&sessionVariables\=default_storage_engine\=InnoDB&useUnicode\=true&characterEncoding\=UTF-8&useSSL\=false&allowPublicKeyRetrieval\=true
 connection.username=${DB_USERNAME}
 connection.password=${DB_PASSWORD}
 has_current_openmrs_database=true
