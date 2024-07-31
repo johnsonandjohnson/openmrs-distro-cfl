@@ -1,0 +1,807 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7120,
+      "sizes": {
+        "javascript": 7120
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "smsApp"
+      ],
+      "files": [
+        "41.js"
+      ],
+      "auxiliaryFiles": [
+        "41.js.map"
+      ],
+      "hash": "dd4f29f2a6b61c6f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 96,
+      "sizes": {
+        "javascript": 96
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "smsApp"
+      ],
+      "files": [
+        "55.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "d305ecc9696a12d2",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 136119,
+      "sizes": {
+        "javascript": 136077,
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "smsApp"
+      ],
+      "files": [
+        "61.js"
+      ],
+      "auxiliaryFiles": [
+        "61.js.map"
+      ],
+      "hash": "69d4d84e422f51cc",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 96,
+      "sizes": {
+        "javascript": 96
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "smsApp"
+      ],
+      "files": [
+        "99.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "f21d0cb5a590818e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 72258,
+      "sizes": {
+        "javascript": 72258
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "smsApp"
+      ],
+      "files": [
+        "101.js"
+      ],
+      "auxiliaryFiles": [
+        "101.js.map"
+      ],
+      "hash": "3d4025ca0c975371",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 25349,
+      "sizes": {
+        "javascript": 25349
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "main",
+        "smsApp"
+      ],
+      "files": [
+        "123.js"
+      ],
+      "auxiliaryFiles": [
+        "123.js.map"
+      ],
+      "hash": "78b246f4617baacf",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 2590653,
+      "sizes": {
+        "javascript": 2590653
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "main",
+        "smsApp"
+      ],
+      "files": [
+        "131.js"
+      ],
+      "auxiliaryFiles": [
+        "131.js.map"
+      ],
+      "hash": "a3fd518c24f9d551",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 137481,
+      "sizes": {
+        "javascript": 137481
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "main",
+        "smsApp"
+      ],
+      "files": [
+        "144.js"
+      ],
+      "auxiliaryFiles": [
+        "144.js.map"
+      ],
+      "hash": "3a392a4df78edced",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 974,
+      "sizes": {
+        "javascript": 974
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "smsApp"
+      ],
+      "files": [
+        "160.js"
+      ],
+      "auxiliaryFiles": [
+        "160.js.map"
+      ],
+      "hash": "a6272ec30c40cbe0",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2756,
+      "sizes": {
+        "consume-shared": 42,
+        "javascript": 2714
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "smsApp"
+      ],
+      "files": [
+        "173.js"
+      ],
+      "auxiliaryFiles": [
+        "173.js.map"
+      ],
+      "hash": "6a0af0e16a5b020b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 19493,
+      "sizes": {
+        "javascript": 19493
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "smsApp"
+      ],
+      "files": [
+        "177.js"
+      ],
+      "auxiliaryFiles": [
+        "177.js.map"
+      ],
+      "hash": "45c30a308d6d6b7c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 96,
+      "sizes": {
+        "javascript": 96
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "smsApp"
+      ],
+      "files": [
+        "197.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "02d2f2adbb9cdc5b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 84,
+      "sizes": {
+        "consume-shared": 84
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "smsApp"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "836c5f0a3e7917b1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2410,
+      "sizes": {
+        "javascript": 2410
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "smsApp"
+      ],
+      "files": [
+        "300.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "324a730c87ab9266",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 96,
+      "sizes": {
+        "javascript": 96
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "smsApp"
+      ],
+      "files": [
+        "335.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "5690d46e62f615a8",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 25608,
+      "sizes": {
+        "javascript": 25608
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "main",
+        "smsApp"
+      ],
+      "files": [
+        "372.js"
+      ],
+      "auxiliaryFiles": [
+        "372.js.map"
+      ],
+      "hash": "abdd6b1449fc3f87",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "smsApp"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "0c28466de712a27b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "smsApp"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "5afdd32a0e528528",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "smsApp"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "bdcdc27e088cd199",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 39680,
+      "sizes": {
+        "javascript": 39680
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "smsApp"
+      ],
+      "files": [
+        "449.js"
+      ],
+      "auxiliaryFiles": [
+        "449.js.map"
+      ],
+      "hash": "e4743574e67ac811",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 37007,
+      "sizes": {
+        "javascript": 37007
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "smsApp"
+      ],
+      "files": [
+        "467.js"
+      ],
+      "auxiliaryFiles": [
+        "467.js.map"
+      ],
+      "hash": "c3cfec81414158e4",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 36006,
+      "sizes": {
+        "javascript": 36006
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "main",
+        "smsApp"
+      ],
+      "files": [
+        "470.js"
+      ],
+      "auxiliaryFiles": [
+        "470.js.map"
+      ],
+      "hash": "6cd13c0d3f111251",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 24274,
+      "sizes": {
+        "javascript": 24274
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "smsApp"
+      ],
+      "files": [
+        "495.js"
+      ],
+      "auxiliaryFiles": [
+        "495.js.map"
+      ],
+      "hash": "d97f09f7e301a5a2",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 96,
+      "sizes": {
+        "javascript": 96
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "smsApp"
+      ],
+      "files": [
+        "652.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "6efe44d6bed0fd06",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 20511,
+      "sizes": {
+        "javascript": 20511
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "smsApp"
+      ],
+      "files": [
+        "674.js"
+      ],
+      "auxiliaryFiles": [
+        "674.js.map"
+      ],
+      "hash": "159d48e19d70e338",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 199092,
+      "sizes": {
+        "javascript": 199092
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "main",
+        "smsApp"
+      ],
+      "files": [
+        "775.js"
+      ],
+      "auxiliaryFiles": [
+        "775.js.map"
+      ],
+      "hash": "419ec66aafd1559a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 23955,
+      "sizes": {
+        "consume-shared": 42,
+        "javascript": 2714,
+        "share-init": 294,
+        "runtime": 20905
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [
+        "main.js.map"
+      ],
+      "hash": "5a09b8490f4caecc",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 39412,
+      "sizes": {
+        "javascript": 39412
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "smsApp"
+      ],
+      "files": [
+        "830.js"
+      ],
+      "auxiliaryFiles": [
+        "830.js.map"
+      ],
+      "hash": "56eae99ff9e75c14",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 1801065,
+      "sizes": {
+        "javascript": 1801065
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "main",
+        "smsApp"
+      ],
+      "files": [
+        "831.js"
+      ],
+      "auxiliaryFiles": [
+        "831.js.map"
+      ],
+      "hash": "92f78a1bacd12f04",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 135947,
+      "sizes": {
+        "javascript": 135947
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "main",
+        "smsApp"
+      ],
+      "files": [
+        "850.js"
+      ],
+      "auxiliaryFiles": [
+        "850.js.map"
+      ],
+      "hash": "bdcac7d231a78920",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 25557,
+      "sizes": {
+        "javascript": 25557
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main",
+        "smsApp"
+      ],
+      "files": [
+        "876.js"
+      ],
+      "auxiliaryFiles": [
+        "876.js.map"
+      ],
+      "hash": "06bfbdd44aa5a6bf",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 20874,
+      "sizes": {
+        "javascript": 42,
+        "share-init": 294,
+        "runtime": 20538
+      },
+      "names": [
+        "smsApp"
+      ],
+      "idHints": [],
+      "runtime": [
+        "smsApp"
+      ],
+      "files": [
+        "openmrs-esm-sms-app.js"
+      ],
+      "auxiliaryFiles": [
+        "openmrs-esm-sms-app.js.map"
+      ],
+      "hash": "e4b717767c5e0fac",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 258370,
+      "sizes": {
+        "javascript": 258370
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "main",
+        "smsApp"
+      ],
+      "files": [
+        "999.js"
+      ],
+      "auxiliaryFiles": [
+        "999.js.map"
+      ],
+      "hash": "0928375821d8d9fb",
+      "childrenByOrder": {}
+    }
+  ]
+}

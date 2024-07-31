@@ -1,0 +1,1 @@
+{"$schema":"https://json.openmrs.org/routes.schema.json","backendDependencies":{},"extensions":[{"name":"sms-providers-settings-admin-card-link","component":"smsAdminCardLink","slot":"system-admin-page-card-link-slot","online":true,"offline":true}],"pages":[{"component":"messagesDashboard","route":"messages","online":true,"offline":true,"order":1}],"version":"1.0.0"}
